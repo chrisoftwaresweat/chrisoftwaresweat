@@ -1,46 +1,68 @@
-<h4 align="left">Hi, I'm Christian A. Gulfan/@chrisoftwaresweat 👋<br><br>🎓 First Year Student<br>📍 Cebu, Philippines<br>💻 Started coding on February 15, 2026<br><br>🚀 About Me<br>I'm a first-year student who recently started my journey in programming. In just a short time, I've already explored multiple languages and built a strong foundation in coding.<br><br>I enjoy solving problems, creating small projects, and continuously improving my skills step by step. My goal is to grow into a well-rounded developer and eventually build impactful applications.</h4>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Christian A. Gulfan</h1>
+<h3 align="center">Studying @University of Cebu-Banilad</h3>
 
-###
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=chrisoftwaresweat">
+    <img src="https://komarev.com/ghpvc/?username=chrisoftwaresweat&label=Profile%20views&color=00FFFF&style=flat-square" alt="chrisoftwaresweat's profile views" />
+  </a>
+</p>
+
+<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/sakamoto-days-trailer-featured.jpg" alt="Banner" width="100%" />
+
+## 📌 About Me
+- I'm a first-year student who recently started my journey in programming. In just a short time, I've already explored multiple languages and built a strong foundation in coding.
+- I enjoy solving problems, creating small projects, and continuously improving my skills step by step. My goal is to grow into a well-rounded developer and eventually build impactful applications.
+
+
+## 🧠 My Focus Areas
+- Backend Development
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/chrisoftwaresweat">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chrisoftwaresweat&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="chrisoftwaresweat's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=chrisoftwaresweat&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="chrisoftwaresweat's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=chrisoftwaresweat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Christian A. Gulfan's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=chrisoftwaresweat&theme=tokyonight&radius=10" alt="chrisoftwaresweat's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/chrisoftwaresweat">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chrisoftwaresweat&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="left"> <a href="mailto:christiangulfan366@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Christian A. Gulfan's Email"/></a></p>
+
+## 💬 Quote
+> The expert in anything was once a beginner.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisoftwaresweat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=chrisoftwaresweat&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisoftwaresweat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://mp.moonpreneur.com/blog/wp-content/uploads/2024/08/anime-quote-16.webp" alt="Bottom Line" width="100%" />
 </div>
-
-###
-
-<img align="left" height="150" src="https://i.pinimg.com/originals/f9/69/cc/f969cc192712760d981fd6087222cb5d.jpg"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="rain.myluv1110" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="christiangulfan366@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/christian.gulfan.31" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/chrisgulfangs/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
