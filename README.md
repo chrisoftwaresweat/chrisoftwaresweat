@@ -1,4 +1,4 @@
-<h4 align="left">Hi, I'm Christian A. Gulfan/@chrisoftwaresweat 👋<br><br>🎓 First Year Student<br>📍 Cebu, Philippines<br>💻 Started coding on February 20, 2026<br><br>🚀 About Me<br>I'm a first-year student who recently started my journey in programming. In just a short time, I've already explored multiple languages and built a strong foundation in coding.<br><br>I enjoy solving problems, creating small projects, and continuously improving my skills step by step. My goal is to grow into a well-rounded developer and eventually build impactful applications.</h4>
+<h4 align="left">Hi, I'm Christian A. Gulfan/@chrisoftwaresweat 👋<br><br>🎓 First Year Student<br>📍 Cebu, Philippines<br>💻 Started coding on February 15, 2026<br><br>🚀 About Me<br>I'm a first-year student who recently started my journey in programming. In just a short time, I've already explored multiple languages and built a strong foundation in coding.<br><br>I enjoy solving problems, creating small projects, and continuously improving my skills step by step. My goal is to grow into a well-rounded developer and eventually build impactful applications.</h4>
 
 ###
 
