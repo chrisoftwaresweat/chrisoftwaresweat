@@ -10,8 +10,9 @@
 <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2025/02/sakamoto-days-trailer-featured.jpg" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm a first-year student who recently started my journey in programming. In just a short time, I've already explored multiple languages and built a strong foundation in coding.
+- I'm a first-year student who recently started my journey in programming(February 15, 2026). In just a short time, I've already explored multiple languages and built a strong foundation in coding.
 - I enjoy solving problems, creating small projects, and continuously improving my skills step by step. My goal is to grow into a well-rounded developer and eventually build impactful applications.
+- Fun fact, I used to be a Medical Laboratory Scientist student.
 
 
 ## 🧠 My Focus Areas
