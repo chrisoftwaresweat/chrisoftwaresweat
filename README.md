@@ -65,5 +65,5 @@
 </p>
 
 <div align="center">
-  <img src="https://mp.moonpreneur.com/blog/wp-content/uploads/2024/08/anime-quote-16.webp" alt="Bottom Line" width="100%" />
+  <img src="https://static.wikia.nocookie.net/marvelmovies/images/6/68/TonyReturnsHome-IM2.png/revision/latest?cb=20131127033250" alt="Bottom Line" width="100%" />
 </div>
