@@ -16,7 +16,7 @@
 
 
 ## 🧠 My Focus Areas
-- Backend Development
+- Trying to make a copy of flappy bird(Strictly: For learning purposes only).
 
 ## 🛠️ Languages & Tools
 
