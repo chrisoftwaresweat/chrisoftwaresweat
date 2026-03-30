@@ -16,7 +16,7 @@
 
 
 ## 🧠 My Focus Areas
-- Trying to make a copy of flappy bird(Strictly: For learning purposes only).
+- Trying to make a copy of Flappy Bird(Strictly: For learning purposes only).
 
 ## 🛠️ Languages & Tools
 
