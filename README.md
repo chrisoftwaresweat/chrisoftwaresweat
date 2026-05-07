@@ -16,7 +16,7 @@
 
 
 ## 🧠 My Focus Areas
-- Trying to make a copy of Flappy Bird(Strictly: For learning purposes only).
+- Systematically: DSA, DataBase, JFrame
 
 ## 🛠️ Languages & Tools
 
