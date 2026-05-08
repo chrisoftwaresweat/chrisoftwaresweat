@@ -17,6 +17,7 @@
 
 ## 🧠 My Focus Areas
 - Systematically: DSA, DataBase, JFrame
+- 2D Dinosaur Simulation Game using JFrame
 
 ## 🛠️ Languages & Tools
 
