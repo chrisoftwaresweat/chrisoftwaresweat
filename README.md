@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.imgur.com/zD1E0iX.jpg" alt="Banner" width="100%" />
+<img src="https://i.imgur.com/LssfFwh.png" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I'm a first-year student who recently started my journey in programming(February 15, 2026). In just a short time, I've already explored multiple languages and built a strong foundation in coding.
