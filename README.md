@@ -17,7 +17,7 @@
 
 
 ## 🧠 My Focus Areas
-- Systematically: DSA, DataBase, JFrame
+- Systematically: DSA, DataBase, GUI
 - 2D Dinosaur Simulation Game: Pure Java & JavaSwing as GUI
 
 ## 🛠️ Languages & Tools
